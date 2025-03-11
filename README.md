@@ -1,4 +1,4 @@
-# School Management System
+# Anganwadi Management System
 
 A modern web application for managing school attendance for workers, helpers, and students.
 
