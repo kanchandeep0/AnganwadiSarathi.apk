@@ -18,6 +18,7 @@ A modern web application for managing school attendance for workers, helpers, an
 - TailwindCSS
 - NextAuth.js for authentication
 - React Hot Toast for notifications
+- Python for backend
 
 ## Prerequisites
 
